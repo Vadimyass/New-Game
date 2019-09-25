@@ -47,7 +47,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 498}
   m_MaxSize: {x: 14002, y: 14048}
   vertical: 0
+<<<<<<< HEAD
   controlID: 33
+=======
+  controlID: 12
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,8 +71,13 @@ MonoBehaviour:
     y: 0
     width: 389
     height: 947
+<<<<<<< HEAD
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -93,8 +102,13 @@ MonoBehaviour:
     y: 0
     width: 379
     height: 574
+<<<<<<< HEAD
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+  m_MinSize: {x: 202, y: 224}
+  m_MaxSize: {x: 4002, y: 4024}
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -219,7 +233,11 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 498}
   m_MaxSize: {x: 10002, y: 14048}
   vertical: 1
+<<<<<<< HEAD
   controlID: 34
+=======
+  controlID: 13
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,10 +259,17 @@ MonoBehaviour:
     y: 0
     width: 1531
     height: 574
+<<<<<<< HEAD
   m_MinSize: {x: 404, y: 224}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
   controlID: 35
+=======
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
+  vertical: 0
+  controlID: 14
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -442,9 +467,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: ea090000
     m_LastClickedID: 2538
     m_ExpandedIDs: 00000000740900009e090000d40900005a0a0000fa0a000000ca9a3b
+=======
+    m_SelectedIDs: 90280000
+    m_LastClickedID: 10384
+    m_ExpandedIDs: 0000000072090000ce090000500a0000ee0a00008e28000000ca9a3b
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -472,7 +503,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000740900009e090000d40900005a0a0000fa0a0000
+=======
+    m_ExpandedIDs: 0000000072090000ce090000500a0000ee0a0000
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -591,9 +626,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: de0b0000
       m_LastClickedID: 3038
       m_ExpandedIDs: d6fbffff
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 08bdffff8ec4ffffd6fbffff
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -648,9 +689,15 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -1.8001436, y: 1.7510569, z: -0.02648065}
     speed: 2
     m_Value: {x: -1.8001436, y: 1.7510569, z: -0.02648065}
+=======
+    m_Target: {x: -5.094864, y: -1.0293944, z: 0.064453125}
+    speed: 2
+    m_Value: {x: -5.094864, y: -1.0293944, z: 0.064453125}
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -682,15 +729,21 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 12.587226
     speed: 2
     m_Value: 12.587226
+=======
+    m_Target: 3.3816261
+    speed: 2
+    m_Value: 3.3816261
+>>>>>>> 41a1a1b1c744fc8eb681e071e124395b7724d571
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: 0.08717229, y: -0.89959055, z: 0.21045254, w: 0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
