@@ -18,7 +18,7 @@ public class Block
         {
             return this.Hp -= dmg;
         }
-        //Debug.Log(this.Hp);
+        Debug.Log(this.Hp);
         return this.Hp;
     }
 }

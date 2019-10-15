@@ -30,7 +30,7 @@ public class B_D : MonoBehaviour
     {
             if (Dirt.delete(5) <= 0) //уничтожить блок с 5ью урона
             {
-                Destroy(this);
+                Destroy(gameObject);
             }
             Debug.Log(name);
     }
